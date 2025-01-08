@@ -10,4 +10,4 @@ https://depot-e.uqtr.ca/id/eprint/10565/
 ### POD-iSante
 ![Alt text](/profile/Rapport%20visuel%20(questionnaires).png?raw=true "Optional Title")
 
-![Alt text](/profile/Informations%20du%20patient.png?raw=true "Optional Title")
+![Alt text](/profile/Informations%20du%20patient.png "Optional Title")
