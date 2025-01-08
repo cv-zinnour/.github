@@ -7,3 +7,7 @@ https://depot-e.uqtr.ca/id/eprint/10565/
 ### Architecture microservices du POD-iSante
 ![Alt text](/profile/Screenshot%202025-01-08%20025156.png?raw=true "Optional Title")
 
+### POD-iSante
+![Alt text](/profile/Rapport%20visuel%20(questionnaires).png?raw=true "Optional Title")
+
+![Alt text](/profile/Informations%20du%20patient.png?raw=true "Optional Title")
